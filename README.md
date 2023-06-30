@@ -1,4 +1,4 @@
-# Laboratorijske vježbe iz Toerije estimaije 2022./2023.
+# Laboratorijske vježbe iz Toerije estimacije 2022./2023.
 
 ### 1. Linearna estimacija u statičkim sustavima
 
