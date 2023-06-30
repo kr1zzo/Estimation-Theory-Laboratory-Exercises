@@ -10,7 +10,7 @@
 
 * diskretni linearni Kalmanov filtar (KF)
 
-### 3. Estimacija položaja satelita u planarnoj orbiti oko Zemlje
+## 3. Estimacija položaja satelita u planarnoj orbiti oko Zemlje
 
 * Linearizirani Kalmanov Filtar (LKF)
 * Diskretni prošireni Kalmanov fltar (EKF)
