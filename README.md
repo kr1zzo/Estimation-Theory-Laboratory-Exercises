@@ -1,31 +1,51 @@
-# Laboratorijske vježbe iz Teorije estimacije 2022./2023.
+# Estimation Theory Laboratory Exercises - 2022/2023
 
-## 1. Linearna estimacija u statičkim sustavima
+### Course : [Estimation Theory](https://www.fer.unizg.hr/en/course/estthe)
 
-* Least square (LS) estimator
-* Weighted least squares (WLS) estimator
-* Weighted least squares (WLS) estimator
+## 1. Linear Estimation in Static Systems
 
-## 2. Estimacija lokacije vozila pomoću globalnog sustava pozicioniranja
+* Least Square (LS) Estimator
+* Weighted Least Squares (WLS) Estimator
+* Weighted Least Squares (WLS) Estimator
 
-* diskretni linearni Kalmanov filtar (KF)
+## 2. Vehicle Localization using Global Positioning System
 
-## 3. Estimacija položaja satelita u planarnoj orbiti oko Zemlje
+* Discrete Linear Kalman Filter (KF)
 
-* Linearizirani Kalmanov Filtar (LKF)
-* Diskretni prošireni Kalmanov fltar (EKF)
-* Iterativni proŠireni Kalmanov Fltar (IEKF)
+## 3. Satellite Position Estimation in Planar Orbit around Earth
+
+* Linearized Kalman Filter (LKF)
+* Discrete Extended Kalman Filter (EKF)
+* Iterative Extended Kalman Filter (IEKF)
+
+## 4. Nonparametric Identification Procedures
+
+* Identification of a Three-Mass Electromechanical System based on Fourier and Spectral Analysis
+* Identification of a Three-Mass Electromechanical System based on Correlation Analysis
+
+## 5. Parametric Identification Procedures
+
+* Single-Mass Mechanical System
+* Identification of a Single-Mass Mechanical System using Non-Recursive Parametric Methods
+* Identification of a Single-Mass Mechanical System using Recursive Parametric Methods
 
 
-## 4. Neparametarski postupci identifikacije
+## Credits
 
-* Identifikacija sustava tromasenog elektromehaničkog sloga zasnovana na Fourierovoj i spektralnoj analizi
-* Identifikacija sustava tromasenog elektromehaničkog sloga zasnovana na korelacijskoj analizi
+#### [&copy; Faculty of Electrical Engineering and Computing, University of Zagreb, 2022/2023](https://www.fer.unizg.hr/)
 
-## 5. Parametarski postupci identifikacije
 
-* Jednomaseni mehanički slog
-* Identifikacija sustava jednomasenog mehaničkog sloga pomoću nerekurzivnih parametarskih postupaka
-* Identifikacija sustava jednomasenog mehaničkog sloga pomoću rekurzivnih parametarskih postupaka
 
-*Fakultet elektrotehnike i računarstva, 2022./2023.*
+&NewLine;
+
+Contributors names and contact info
+
+Author|GitHub | e-mail
+| :--- | :---: | :---:
+Enio Krizman  | [@kr1zzo](https://github.com/kr1zzo) | enio.krizman@fer.hr
+
+Academic title| Lecturer
+| :--- | :---: 
+Akademik Prof. Dr. Sc. | Ivan Petrović 
+Prof. Dr. Sc. | Ivan Marković 
+Prof. Dr. Sc. | Mario Vašak
