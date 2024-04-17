@@ -1,6 +1,12 @@
 # Estimation Theory Laboratory Exercises - 2022/2023
 
+## Description
+
 ### Course : [Estimation Theory](https://www.fer.unizg.hr/en/course/estthe)
+
+This repository contains the laboratory exercises for the Estimation Theory course at the [Faculty of Electrical Engineering and Computing, University of Zagreb](https://www.fer.unizg.hr/en). The repository is based on MATLAB and Simulink and contains themes from the system identification and estimation theory.
+
+## Content
 
 ## 1. Linear Estimation in Static Systems
 
@@ -33,8 +39,6 @@
 ## Credits
 
 #### [&copy; Faculty of Electrical Engineering and Computing, University of Zagreb, 2022/2023](https://www.fer.unizg.hr/)
-
-
 
 &NewLine;
 
