@@ -4,7 +4,7 @@
 
 ### Course : [Estimation Theory](https://www.fer.unizg.hr/en/course/estthe)
 
-This repository contains the laboratory exercises for the Estimation Theory course at the [Faculty of Electrical Engineering and Computing, University of Zagreb](https://www.fer.unizg.hr/en). The repository is based on MATLAB and Simulink and contains themes from the system identification and estimation theory.
+This repository contains the laboratory exercises for the Estimation Theory course at the [Faculty of Electrical Engineering and Computing, University of Zagreb](https://www.fer.unizg.hr/en). The repository is based on MATLAB and Simulink and contains scripts and materials from the system identification and estimation theory.
 
 ## Content
 
